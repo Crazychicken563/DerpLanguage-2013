@@ -1,0 +1,5 @@
+(in derp (derp derp derp))
+(x derp ((derp derple in) 1 derp))
+(out derp "")
+(rev derp [((x isderp -1) derple [(out derp (derp out (x derple in)))(x derp (x 1 derp))(0 derple rev),,(derp derp out)])])
+(0 derple rev)

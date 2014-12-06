@@ -1,0 +1,6 @@
+(y derp (derp derp derp))
+(x derp (derp derp derp))
+(result derp y)
+(inc derp 1)
+(recurse derp [((inc isderp x) derple [,(derp derp result),(result derp (derple result y))(inc derp (derp inc 1))(0 derple recurse)])])
+(0 derple recurse)

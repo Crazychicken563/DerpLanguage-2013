@@ -1,0 +1,4 @@
+(x derp 1)
+(y derp 0)
+(rec derp [(res derp (derp x y))(derp derp res)(y derp x)(x derp res)((derp derp derp) derple rec),(derp derp "done")])
+(0 derple rec)

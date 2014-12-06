@@ -1,0 +1,4 @@
+(x derp (derp derp derp))
+(div derp 2)
+(work derp [(((derple div div) isderp x) derple [,(derp derp "Prime"),(((x div derple) derp derp) derple [(derp derp "False div by")(derp derp div),(div derp (derp div 1))(0 derple work)])])])
+(0 derple work)

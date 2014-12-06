@@ -1,0 +1,5 @@
+(input derp (derp derp derp))
+(div derp (input 3 derple))
+(calcSqrt derp [(((derp ((input div derple) div derp) derp) isderp 0.00000000001) derple [(div derp((derp (input div derple) div) 2 derple))(0 derple calcSqrt),,(derple derp div)])])
+(0 derple calcSqrt)
+(derp derp div)
